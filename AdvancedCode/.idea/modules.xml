@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-API/test-API.iml" filepath="$PROJECT_DIR$/test-API/test-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-abstract/test-abstract.iml" filepath="$PROJECT_DIR$/test-abstract/test-abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-code-block/test-code-block.iml" filepath="$PROJECT_DIR$/test-code-block/test-code-block.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-extends/test-extends.iml" filepath="$PROJECT_DIR$/test-extends/test-extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-interface/test-interface.iml" filepath="$PROJECT_DIR$/test-interface/test-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-lambda/test-lambda.iml" filepath="$PROJECT_DIR$/test-lambda/test-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-package/test-package.iml" filepath="$PROJECT_DIR$/test-package/test-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-polymorpic/test-polymorpic.iml" filepath="$PROJECT_DIR$/test-polymorpic/test-polymorpic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-review/test-review.iml" filepath="$PROJECT_DIR$/test-review/test-review.iml" />
+    </modules>
+  </component>
+</project>
